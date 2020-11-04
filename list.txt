@@ -1,0 +1,15 @@
+Title was not emphasized-corrected: missing h1 
+ 
+text had no paragraphs- somewhat corrected: added <p>
+
+hyperlink is not working properly -corrected: missing link after "a href:"
+
+img is not working  -corrected: missing <>
+
+random Boo fact button is not working -corrected: link to logic.js was incorrect and BooFacts was missing "" between each Boofacts
+
+list of Boo's favorite things is not listed correctly -corrected: missing <li>
+
+Boo rules color buttons are not working -corrected: needed to correct the IDs
+
+and grow and shrink buttons are not working mssing "" in click
